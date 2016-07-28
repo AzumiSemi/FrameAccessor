@@ -2,9 +2,6 @@
 //  ScrollViewFrameAccessor.h
 //  ScrollViewFrameAccessor
 //
-//  Created by Ivanenko Dmitry on 28.10.13.
-//  Copyright (c) 2013 Artox Lab. All rights reserved.
-//
 
 
 @interface UIScrollView (FrameAccessor)
